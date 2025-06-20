@@ -1,7 +1,7 @@
 # Load required libraries
 library(vegan) 
 
-# Import abundance data (samples as columns, species/OTUs as rows)
+# Import abundance data
 df <- read.table(file.choose(), header = TRUE, sep = '\t', row.names = 1)
 
 # Import metadata with grouping information
