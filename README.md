@@ -24,7 +24,7 @@ This repository provides the workflow (Shell, Python, and R) for analyzing the a
 
 ### 4. Interaction & Response
 * **`09_Nested_ANOVA_BCa.R`**: **Nested ANOVA** with **BCa Bootstrap CI** for interaction effects.
-* **`09_Transfer_ROS_Analysis.R`**: Analysis of ROS and horizontal transfer potential.
+* **`10_Transfer_ROS_Analysis.R`**: Analysis of ROS and horizontal transfer potential.
 
 ---
 *For detailed parameters and usage, please refer to the headers of each script.*
